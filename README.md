@@ -1,4 +1,4 @@
- ![banner resmi] () <br/>
+
 # Snake Game (Yılan Oyunu)
 
 JavaScript kullanılarak oluşturulmuş klasik bir yılan oyunudur. Oyunun amacı, yılanı kontrol ederek mümkün olduğunca uzun süre hayatta kalmaktır.<br/>
@@ -17,6 +17,10 @@ Oyun, klavyenizin yön tuşlarını kullanarak kontrol edilir:
 E-posta: idilacik@gmail.com <br/>
 Projeyle ilgili herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen 
  e-posta gönderin veya GitHub üzerinden bana ulaşın. <br/>
+
+
+https://github.com/idilacik/SnakeGame/assets/58853227/9a256d6e-f228-49d4-8716-40a65b2a1ec8
+
 
 
 
